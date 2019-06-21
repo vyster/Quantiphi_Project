@@ -1,5 +1,5 @@
 # Quantiphi_Project
-Data Taxonomy of AO Video Intelligence Features Vyom Agarwal
+Data Taxonomy of AO Video Intelligence Features
 
 # Introduction
 ## Objectives
